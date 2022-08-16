@@ -1,0 +1,525 @@
+ body{
+     overflow-x: hidden; 
+} 
+.section1{
+    background-color: #696969;
+    height: 550px;
+}
+
+img[src="../images/white-logo.png"]{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+nav{
+    margin-top: -40px;
+    margin-left: 400px;
+}
+.nav-items{
+    color: #fff;
+    margin-right: 30px;
+    font-size: 25px;
+}
+.nav-items:hover{
+    color: aqua;
+    cursor: grab;
+}
+.letstalk{
+    margin-left: 1000px;
+    position: relative;
+    top: -30px;
+    border: solid #fff;
+    background-color: transparent;
+    height: 40px;
+    width: 120px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100%;
+    color: #fff;
+    border-radius: 0.6em;
+    border-width: 1px;
+}.letstalk:hover{
+    background-color: #fff;
+    color: #2d2c2c;
+}
+
+img[src="../images/pexels-fauxels-3183197.jpg"]{
+    width: 500px;
+    margin-left: 100px;
+    width: 500px;
+    height: 400px;
+    
+}
+
+.main-head{
+    color: #fff;
+    font-size: 50px;
+    margin-top: -380px;
+    margin-left: 700px;
+    margin-right: 100px;   
+}
+.main-sub{
+    color: #dad2d2;
+    margin-left: 700px;
+    margin-right: 250px;
+}
+.email{
+    margin-top: 20px;
+    margin-left: 700px;
+    height: 48px;
+}
+input{
+    height: 36px;
+    width: 300px;
+}
+.email button{
+    margin-left: -115px;
+    background-color: rgb(113, 133, 113);
+    height: 42px;
+    width: 110px;
+    color: #fff;
+    border: transparent;
+    font-size: 15px;
+}
+
+.heading2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    margin-top: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: center;
+}
+
+.num-info{
+    display: flex;
+    margin-left: 200px;
+    margin-right: 100px;
+    justify-content: space-between;
+   
+}
+.num-info p{
+    margin-top: 60px;
+    
+}
+.info{
+    position: relative;
+    left: -140px;
+}
+.info:nth-of-type(3){
+   
+    left: -120px;
+}
+
+img[src="../images/pexels-fauxels-3184325.jpg"]{
+    margin-top: 60px;
+    width: 600px;
+    margin-left: 320px;
+}
+.head1{
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-right: 200px;
+    text-align: center;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.head2{
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-right: 700px;
+}
+.section3 p{
+    color: #696969;
+    margin-left: 200px;
+    margin-right: 800px;
+    text-align: justify;
+}
+.section3 button{
+    position: relative;
+    top: -50px;
+    margin-left: 200px;
+    height: 40px;
+    width: 120px;
+    background-color: rgb(113, 133, 113);
+    color: #fff;
+    border: transparent;
+    font-size: 15px;
+}.section3 button:hover{
+    background-color: #fff;
+    color: #2d2c2c;
+    cursor: pointer;
+    border:solid #2d2c2c;
+    box-shadow: 5px 5px 5px 5px #696969;
+}
+
+img[src="../images/pexels-fauxels-3184405.jpg"]{
+    width: 500px;
+    margin-top: -250px;
+    margin-left: 200px;
+}
+
+img[src="../images/pexels-fauxels-3184603.jpg"]{
+    width: 320px;
+    margin-top: 120px;
+    margin-left: 200px;
+    
+}
+.section4 h1{
+    margin-top: -400px;
+    margin-left: 650px;
+    margin-right: 200px;
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+    font-size: 40px;
+    
+}
+
+.section4 p{
+    color: #696969;
+    margin-left: 650px;
+    margin-right: 200px;
+}
+
+.section4 button{
+    margin-left: 650px;
+    margin-top: 70px;
+    height: 40px;
+    width: 120px;
+    background-color: rgb(113, 133, 113);
+    color: #fff;
+    border: transparent;
+    font-size: 15px;
+}.section4 button:hover{
+    background-color: #fff;
+    color: #2d2c2c;
+    cursor: pointer;
+    border:solid #2d2c2c;
+    box-shadow: 5px 5px 5px 5px #696969;
+}
+
+.section5 h1{
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-right: 700px;
+    font-size: 40px;
+}
+.section5 p{
+    color: #696969;
+    margin-left: 200px;
+    margin-right: 750px;
+}
+
+.section5 button{
+    margin-top: 50px;
+    margin-left: 200px;
+    height: 40px;
+    width: 120px;
+    background-color: rgb(113, 133, 113);
+    color: #fff;
+    border: transparent;
+    font-size: 15px;
+}.section5 button:hover{
+    background-color: #fff;
+    color: #2d2c2c;
+    cursor: pointer;
+    border:solid #2d2c2c;
+    box-shadow: 5px 5px 5px 5px #696969;
+}
+
+img[src="../images/pexels-linkedin-sales-navigator-2182969.jpg"]{
+    width: 500px;
+    margin-left: 600px;
+    margin-top: -380px;
+}
+
+.section6 h1{
+    margin-top: 150px;
+    margin-left: 200px;
+    margin-right: 700px;
+    font-size: 40px;
+}
+.section6 p{
+    color: #696969;
+    margin-left: 650px;
+    margin-right: 200px;
+    margin-top: -100px;
+}
+
+img[src="../images/pexels-mikhail-nilov-8937870.jpg"]{
+    /* margin-top: 70px;
+    width: 260px;
+    margin-left: 200px; */
+    position: relative;
+    width: 260px;
+    left: 200px;
+    top: 80px;
+}   
+
+.team12{
+    position:relative;
+    top: 60px;
+    font-size: 20px;
+    margin-left: 200px;
+
+} 
+/*
+.team13{
+    
+   position: relative;
+   top: 80px;
+   left: -450px;
+   white-space: pre;
+} */
+
+img[src="../images/pexels-precious-judah-9154594.jpg"]{
+    width: 260px;
+    position: relative;
+    top: -390px;
+    left: 550px;
+
+}
+
+.team22{
+    position: relative;
+    top: -405px;
+    left: 550px;
+    font-size: 20px;
+}
+
+img[src="../images/pexels-christina-morillo-1181424.jpg"]{
+    width: 260px; 
+    position: relative;
+    top: -860px;
+    left: 900px;
+}
+.team32{
+    position: relative;
+    top: -875px;
+    left: 900px;
+    font-size: 20px;
+}
+
+.section6 button{
+   position: relative;
+   top: -800px;
+   left: 500px;
+   height: 50px;
+   width: 150px;
+   background-color: rgb(113, 133, 113);
+   color: #fff;
+   border: transparent;
+   font-size: 15px;
+}
+.section6 button:hover{
+    box-shadow: 0px 10px 10px 5px rgba(24, 25, 25, 0.7);
+}
+
+.footer{
+    background-color: #2d2c2c;
+    margin-top: -680px;
+    height: 500px;
+}
+
+.footer img{
+    margin-top: 50px;
+   
+}
+img[src="./images/icons8-instagram-48.png"]{
+    width: 40px;
+    float: right;
+    margin-right: 250px;
+}
+img[src="./images/icons8-github-25.png"]{
+    width: 50px;
+    float: right;
+    margin-right: 30px;
+    margin-top: 45px;
+}
+img[src="./images/icons8-facebook-48.png"]{
+    width: 40px;
+    float: right;
+    margin-right: -180px;
+}
+img[src="./images/icons8-twitter-48.png"]{
+    width: 40px;
+    float: right;
+    margin-right: -250px;
+}
+
+.line {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 2em 0;
+    padding: 0;
+}
+
+ .footer-nav{
+    display: flex;
+    color: #fff;
+    margin-top: 70px;
+ }
+ li{
+      list-style: none;
+      margin-right: 100px;
+      line-height: 30px;
+ }
+ .heading{
+    font-size: 20px;
+    text-decoration: underline;
+ }
+ 
+ @media screen and (max-width: 600px) {
+    .nav-items{
+        display: none;
+    }
+    img[src="../images/white-logo.png"]{
+        width: 50px;
+    }
+    .letstalk{
+        width: 80px;
+        height: 20px;
+        margin-top: 50px;
+        margin-left: 350px;
+        font-size: 10px;
+    }
+    img[src="../images/pexels-fauxels-3183197.jpg"]{
+        width: 380px;
+        height: 200px;
+        margin-left: 20px;
+    }
+    .main-head{
+        color: #0b0b0b;
+        font-size: 25px;
+        position: relative;
+        top: 400px;
+        /* left: -680px; */
+        margin-left: 20px;
+        margin-right: 10px;
+    }
+    .main-sub{
+        position: relative;
+        top: 400px;
+        margin-left: 20px;
+        margin-right: 10px;
+    }
+    .email{
+        margin-left: 20px;
+        margin-top: 420px;
+    }
+    .heading2{
+        font-size: 25px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .num-info{
+        display: none;
+    }
+    img[src="../images/pexels-fauxels-3184325.jpg"]{
+        width: 400px;
+        margin-top: -5px;
+        margin-left: 10px;
+    }
+    .head1{
+        font-size: 25px;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-top: 10px;
+    }
+    .head2{
+        font-size: 25px;
+        margin-left: 20px;
+        margin-top: 0px;
+        margin-right: 20px;
+    }
+    .section3 p{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    img[src="../images/pexels-fauxels-3184405.jpg"]{
+        width: 400px;
+        margin-top: -20px;
+        margin-left: 10px;
+    }
+    .section3 button{
+        margin-top: 50px;
+        margin-left: 20px;
+    }
+    img[src="../images/pexels-fauxels-3184603.jpg"]{
+        width: 300px;
+        margin-left: 20px;
+        margin-top: 0px;
+    }
+    .section4 h1{
+        font-size: 25px;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-top: 0px;
+    }
+    .section4 p{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .section4 button{
+        margin-left: 10px;
+        margin-top: 0px;
+    }
+    .section5 h1{
+        font-size: 25px;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-top: 0px;
+    }
+    .section5 p{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .section5 button{
+        margin-top: 0px;
+        margin-left: 10px;
+    }
+    .section5 img{
+        width: 400px;
+        margin-left: 10px;
+        margin-top: 0px;
+    }
+    .section6 h1{
+        font-size: 25px;
+        margin-top: 0px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .section6 p{
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-top: 0px;
+    }
+   img[src="../images/pexels-mikhail-nilov-8937870.jpg"]{
+        width: 250px;
+        margin-top: -80px;
+        margin-left: -180px;
+    }
+    .team12{
+        margin-left: 20px;
+    }
+    img[src="../images/pexels-precious-judah-9154594.jpg"]{
+        width: 250px;
+        margin-top: 480px;
+        margin-left: -520px;
+    }
+    .team22{
+        margin-left: -520px;
+    }
+    img[src="../images/pexels-christina-morillo-1181424.jpg"]{
+        width: 250px;
+        margin-top: 500px;
+        margin-left: -860px;
+    }
+    .team32{
+        margin-left: -860px;
+    }
+    .footer{
+        margin-top: -880px;
+    }
+ }
